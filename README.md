@@ -1,0 +1,1 @@
+The objective of a weather forecast project is to provide accurate and timely information about atmospheric conditions for a specific location or region. The primary goal is to predict various meteorological elements, such as temperature, precipitation, wind speed and direction, humidity, and atmospheric pressure, over a specific period of time
